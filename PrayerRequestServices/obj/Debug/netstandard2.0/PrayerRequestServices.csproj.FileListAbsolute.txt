@@ -1,0 +1,12 @@
+C:\FullStack\PrayerRequest\PrayerRequestServices\bin\Debug\netstandard2.0\PrayerRequestServices.deps.json
+C:\FullStack\PrayerRequest\PrayerRequestServices\bin\Debug\netstandard2.0\PrayerRequestServices.dll
+C:\FullStack\PrayerRequest\PrayerRequestServices\bin\Debug\netstandard2.0\PrayerRequestServices.pdb
+C:\FullStack\PrayerRequest\PrayerRequestServices\bin\Debug\netstandard2.0\PrayerRequestCore.dll
+C:\FullStack\PrayerRequest\PrayerRequestServices\bin\Debug\netstandard2.0\PrayerRequestCore.pdb
+C:\FullStack\PrayerRequest\PrayerRequestServices\obj\Debug\netstandard2.0\PrayerRequestServices.csprojAssemblyReference.cache
+C:\FullStack\PrayerRequest\PrayerRequestServices\obj\Debug\netstandard2.0\PrayerRequestServices.AssemblyInfoInputs.cache
+C:\FullStack\PrayerRequest\PrayerRequestServices\obj\Debug\netstandard2.0\PrayerRequestServices.AssemblyInfo.cs
+C:\FullStack\PrayerRequest\PrayerRequestServices\obj\Debug\netstandard2.0\PrayerRequestServices.csproj.CoreCompileInputs.cache
+C:\FullStack\PrayerRequest\PrayerRequestServices\obj\Debug\netstandard2.0\PrayerRequestServices.csproj.CopyComplete
+C:\FullStack\PrayerRequest\PrayerRequestServices\obj\Debug\netstandard2.0\PrayerRequestServices.dll
+C:\FullStack\PrayerRequest\PrayerRequestServices\obj\Debug\netstandard2.0\PrayerRequestServices.pdb

@@ -1,0 +1,12 @@
+C:\FullStack\PrayerRequest\DataAccessLayer\obj\Debug\netstandard2.1\DataAccessLayer.csprojAssemblyReference.cache
+C:\FullStack\PrayerRequest\DataAccessLayer\obj\Debug\netstandard2.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\FullStack\PrayerRequest\DataAccessLayer\obj\Debug\netstandard2.1\DataAccessLayer.AssemblyInfo.cs
+C:\FullStack\PrayerRequest\DataAccessLayer\obj\Debug\netstandard2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\FullStack\PrayerRequest\DataAccessLayer\bin\Debug\netstandard2.1\DataAccessLayer.deps.json
+C:\FullStack\PrayerRequest\DataAccessLayer\bin\Debug\netstandard2.1\DataAccessLayer.dll
+C:\FullStack\PrayerRequest\DataAccessLayer\bin\Debug\netstandard2.1\DataAccessLayer.pdb
+C:\FullStack\PrayerRequest\DataAccessLayer\bin\Debug\netstandard2.1\PrayerRequestCore.dll
+C:\FullStack\PrayerRequest\DataAccessLayer\bin\Debug\netstandard2.1\PrayerRequestCore.pdb
+C:\FullStack\PrayerRequest\DataAccessLayer\obj\Debug\netstandard2.1\DataAccessLayer.csproj.CopyComplete
+C:\FullStack\PrayerRequest\DataAccessLayer\obj\Debug\netstandard2.1\DataAccessLayer.dll
+C:\FullStack\PrayerRequest\DataAccessLayer\obj\Debug\netstandard2.1\DataAccessLayer.pdb

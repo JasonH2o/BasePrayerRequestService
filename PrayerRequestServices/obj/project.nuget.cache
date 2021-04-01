@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "XO+dhSuB/LHoCgqyhoAsbTpNx5OOlzznupCXwKWId72lSSf9Z0eQQbVbBtaSCSNe/jOsOTHaTNcm1mpaC6tRLQ==",
+  "success": false,
+  "projectFilePath": "C:\\FullStack\\PrayerRequest\\PrayerRequestServices\\PrayerRequestServices.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project PrayerRequestCore is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Project PrayerRequestCore supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "PrayerRequestCore",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

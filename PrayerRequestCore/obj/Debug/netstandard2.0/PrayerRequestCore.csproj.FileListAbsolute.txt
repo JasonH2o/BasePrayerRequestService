@@ -1,0 +1,8 @@
+C:\FullStack\PrayerRequest\PrayerRequestCore\bin\Debug\netstandard2.0\PrayerRequestCore.deps.json
+C:\FullStack\PrayerRequest\PrayerRequestCore\bin\Debug\netstandard2.0\PrayerRequestCore.dll
+C:\FullStack\PrayerRequest\PrayerRequestCore\bin\Debug\netstandard2.0\PrayerRequestCore.pdb
+C:\FullStack\PrayerRequest\PrayerRequestCore\obj\Debug\netstandard2.0\PrayerRequestCore.AssemblyInfoInputs.cache
+C:\FullStack\PrayerRequest\PrayerRequestCore\obj\Debug\netstandard2.0\PrayerRequestCore.AssemblyInfo.cs
+C:\FullStack\PrayerRequest\PrayerRequestCore\obj\Debug\netstandard2.0\PrayerRequestCore.csproj.CoreCompileInputs.cache
+C:\FullStack\PrayerRequest\PrayerRequestCore\obj\Debug\netstandard2.0\PrayerRequestCore.dll
+C:\FullStack\PrayerRequest\PrayerRequestCore\obj\Debug\netstandard2.0\PrayerRequestCore.pdb
